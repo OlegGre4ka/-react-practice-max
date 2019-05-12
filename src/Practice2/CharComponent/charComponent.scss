@@ -1,0 +1,14 @@
+.CharComponent {
+    ol{
+        // list-style-type: none;
+        li{
+            // text-align: left;
+            padding-right:15px;
+            &:hover {
+                color:red;
+                // background-color: lightgrey;
+                }
+        }
+        
+    } 
+}
